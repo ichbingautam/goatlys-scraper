@@ -1,8 +1,8 @@
-fastapi=0.115.0
+fastapi==0.115.0
 uvicorn
 requests
 bs4
 python-multipart
-sqlite3
+SQLite3-0611
 sqlalchemy
 python-dotenv
