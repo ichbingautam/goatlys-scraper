@@ -1,0 +1,8 @@
+fastapi=0.115.0
+uvicorn
+requests
+bs4
+python-multipart
+sqlite3
+sqlalchemy
+python-dotenv
